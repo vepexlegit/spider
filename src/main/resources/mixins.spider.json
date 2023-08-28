@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "de.vepexlegit.spider.mixins",
+  "refmap": "mixins.spider.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinEntity"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

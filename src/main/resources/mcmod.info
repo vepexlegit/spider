@@ -1,0 +1,16 @@
+[
+{
+  "modid": "spider",
+  "name": "Spider",
+  "description": "This mod allows you to crawl on walls",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vepexlegit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

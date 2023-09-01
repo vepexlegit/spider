@@ -1,8 +1,8 @@
 [
 {
-  "modid": "spider",
-  "name": "Spider",
-  "description": "This mod allows you to crawl on walls",
+  "modid": "spiderdebug",
+  "name": "SpiderDebug",
+  "description": "This mod is an addition to the main spider mod.\nThis add-on will help you turn spider on or off",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
